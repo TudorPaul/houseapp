@@ -1,0 +1,48 @@
+[{
+    "id":1,
+    "SellRent":1,
+    "Name":"Casa Smechera",
+    "Type":"House",
+    "Price":100000,
+    "Image":"house1"
+  },
+  {
+    "id":2,
+    "SellRent":1,
+    "Name":"Casa Smechera2",
+    "Type":"House",
+    "Price":100000,
+    "Image":"house2"
+  },
+  {
+    "id":3,
+    "SellRent":2,
+    "Name":"Casa Smechera3",
+    "Type":"House",
+    "Price":100000,
+    "Image":"house3"
+  },
+  {
+    "id":4,
+    "SellRent":2,
+    "Name":"Casa Smechera4",
+    "Type":"House",
+    "Price":100000,
+    "Image":"house4"
+  },
+  {
+    "id":5,
+    "SellRent":1,
+    "Name":"Casa Smechera5",
+    "Type":"House",
+    "Price":100000,
+    "Image":"house5"
+  },
+  {
+    "id":6,
+    "SellRent":1,
+    "Name":"Casa Smechera6",
+    "Type":"House",
+    "Price":100000
+  }
+]
